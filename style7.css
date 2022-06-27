@@ -1,0 +1,19 @@
+.inicio{
+	position: relative;
+	text-align: center;
+	color: purple;
+}
+
+.titulo{
+	font: 50px Arial;
+	position: absolute;
+	top: 35%;
+	left: 25%;
+}
+
+.subtitulo{
+	font: 30px Arial;
+	position: absolute;
+	top: 50%;
+	left: 40%;
+}
